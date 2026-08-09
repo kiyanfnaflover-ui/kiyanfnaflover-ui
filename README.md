@@ -8,6 +8,12 @@ I believe tools are only as good as what you build with them. Here is a look at 
 
 ---
 
+### ☕ Backend
+*Building robust logic and server-side applications.*  
+![Backend Skills](https://skillicons.dev/icons?i=java)
+
+---
+
 ### 🎮 Game Development
 *Designing mechanics, digital worlds, and interactive logic.*  
 ![Game Dev](https://skillicons.dev/icons?i=unity,godot)
@@ -19,11 +25,13 @@ I believe tools are only as good as what you build with them. Here is a look at 
 ![Networking and Systems](https://skillicons.dev/icons?i=linux,bash)
 
 * **🖧 Networking:** Core internet fundamentals and protocols.
-* **🐧 GNU/Linux:** System administration, configuration, and native operating environments.
+* **🐧 GNU/Linux:** System administration, configuration, and native operating environments (like Arch Linux).
 * **💻 Command Line:** Shell scripting and daily system operations.
 
 ---
 
 ### 📌 Tools & Platforms
-*My daily drivers for version control and writing clean code.*  
-![Tools](https://skillicons.dev/icons?i=git,github,vscode)
+*My daily drivers for version control, coding, and automation.*  
+![Tools](https://skillicons.dev/icons?i=git,github,gitlab,vscode)
+
+* **Workflow Automation:** Designing custom integrations and node-based automated pipelines using **n8n**.
