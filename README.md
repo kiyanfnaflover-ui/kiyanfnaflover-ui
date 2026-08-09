@@ -8,9 +8,9 @@ I believe tools are only as good as what you build with them. Here is a look at 
 
 ---
 
-### ☕ Backend
-*Building robust logic and server-side applications.*  
-![Backend Skills](https://skillicons.dev/icons?i=java)
+### ☕ Backend & Scripting
+*Building robust logic, backend services, and server-side applications.*  
+![Backend Skills](https://skillicons.dev/icons?i=java,python,php)
 
 ---
 
