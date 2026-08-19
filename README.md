@@ -2,9 +2,9 @@
   <img src="image/banner.png" alt="Header Banner" width="100%">
 </p>
 
-# Hey there! I'm Kiyan 👋
 
-I'm **Kiyan** — though across GitHub and the web, you'll usually find me going by **`k_F_`**, **`kiyanfnaflover-ui`**, or just **`kf`**. 
+
+I'm **K_F_** — though across GitHub and the web, you'll usually find me going by **`k_F_`**, **`kiyanfnaflover-ui`**, or just **`kf`**. 
 
 I’m a developer and network security student who lives in the terminal, builds for the web, crafts interactive game experiences, and tinkers with system infrastructure.
 
